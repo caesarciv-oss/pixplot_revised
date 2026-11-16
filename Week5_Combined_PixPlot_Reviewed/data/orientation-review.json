@@ -1,0 +1,1391 @@
+{
+  "method": "Crop scan margins, normalize orientation, convert working copies only to high-quality JPEG",
+  "angle_convention": "Pillow rotate degrees counter-clockwise",
+  "folder_counts": {
+    "B01": 31,
+    "B02": 45,
+    "B03": 20,
+    "B24_photo": 29
+  },
+  "image_count": 125,
+  "source_images_modified": false,
+  "images": [
+    {
+      "filename": "B01P01.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P01.tif",
+      "sha256": "d29c91854820a8abc6c04bb8f1becb4a3fe7c676d700ce7d4d0ac9b041db6c75",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P02.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P02.tif",
+      "sha256": "26fe78d193ac1bd73467e7478c412890bd2b5447bc10bbc75e365ac8e7fb7fb7",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P03.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P03.tif",
+      "sha256": "46eee96d69ffce5b3076a04d9b4d136f56b7a91dd0892008a560f992b99a5da5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P04.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P04.tif",
+      "sha256": "7c592a367c1688179d120dc1d68b98ff491acf7ea23737966f674a8b6d5fbbf6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P05.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P05.tif",
+      "sha256": "dcae34efffdbb5153c5a80965b1fad7eb29d62fe7bf3d2346491ec54b8e041cf",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P06.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P06.tif",
+      "sha256": "bbc15c40bcff4db3d39369a508707668c35c415ad16da04a14c5c4bdf3f462f5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P07.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P07.tif",
+      "sha256": "3eef53564eaf9e8e6fc1aadf6d02bbb518d390f2b23b8847e3586b5d1b92f20c",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P08.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P08.tif",
+      "sha256": "e2369930c6df8cc41fc83ca3b33a9c6d0cb278607ce092d59fec402f5476a32c",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P09.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P09.tif",
+      "sha256": "935d1c3f74711528c5140a4c06fd579038d12a3a64723613063414a3ecd1569b",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P10.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P10.tif",
+      "sha256": "99de6890fcad6f20a0061c5864ba0021992300f19509c4b76be07d9f5815f848",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P11.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P11.tif",
+      "sha256": "3b323879b1b850bb3023547aabae75c1a8a72cafc0e12d3a7a415c94111c5ed9",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P12.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P12.tif",
+      "sha256": "d8709dde8e8aa07775ccca3045bea0e98ee2780f3dfa95d7950c1e2caa21c1b5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P13.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P13.tif",
+      "sha256": "a2e60a024a3b77ba92ef066c0de8c3c85c26d8c7494a7020cf09255ba441279b",
+      "crop": "exception: photograph in upper-left quadrant (x < 50%, y < 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P14.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P14.tif",
+      "sha256": "b23aec181e8a3160745d955c72ba02e5002a7510985d91156bfee7c997080610",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P15.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P15.tif",
+      "sha256": "60e6f902fb72b3cd412b6cbf57ba14c7395c5588b3356e86b43527faf995a6f6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P16.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P16.tif",
+      "sha256": "37e29ea3022c3abf60eb79cd7a61be50ab1259107d26f364b0902f5edbf2ec13",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P17.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P17.tif",
+      "sha256": "cd1cbc92f2cea781b288a41f04f891fd3373baa521e36765c5dabccec843bd41",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P18.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P18.tif",
+      "sha256": "7d31938aa03270374fc156e588eff76f8ffb8d6123329b626d7591d2bb5c71f3",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P19.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P19.tif",
+      "sha256": "8f8a637580661f6698e9189cf54f8f69119fd135fa1a82081154a59ebaa69019",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P20.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P20.tif",
+      "sha256": "38a505a8285e5b5efbf75321fc031c54b7b900fb12ee8fb499bef3d13dffd302",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P21.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P21.tif",
+      "sha256": "0d8b890fd838f00db4dec17e7723dd52d65b4ba03941de5ad3e7212525c661cb",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P22.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P22.tif",
+      "sha256": "02ebf88447475339d101132b40e652ffe377476b100f6fd741c091a800bac885",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P23.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P23.tif",
+      "sha256": "d2f596d1417644a0fbd4ac4822a1b2c0632b3f271d84f590960ebc81e4f297c8",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P24.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P24.tif",
+      "sha256": "5185879b093bae555baa851284833a2a3062eee2ee20fa998fa73dad89d9e332",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P25.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P25.tif",
+      "sha256": "8bdd87c14cca0ded9ce5e87a06b636f4b41dd508bdf68724adab387e51ef0ad6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P26.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P26.tif",
+      "sha256": "662a1abf0e61ad0a8fa1cbda4253bb90dc9710f5776d4664fce739affadbca7e",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P27.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P27.tif",
+      "sha256": "cdec4dcce36f430368299ba1ebbcfbd77fafe6e964fadd3ffa9a626d397d7d01",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P28.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P28.tif",
+      "sha256": "bcf546f74c7b3e313f5c49fd9895eddf4b7688cf9b1f8d3652c917f66f49cd32",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P29.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P29.tif",
+      "sha256": "cb7968dcc4d200081bc1785cf49803904dedf5083957b76aa425ed68233b738b",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P30.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P30.tif",
+      "sha256": "0734bdd2b29ba2eccd89367720cdf8c2c25b8653949507c8b75f69e5fc60d598",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B01P31.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B01/B01P31.tif",
+      "sha256": "98bdb27b0815ecf7a9159310978856787781bcea16bcfbd5d22fa2b04708d1c7",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P01.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P01.tif",
+      "sha256": "ca99e2efa02c4f7429fccc253be65962a01f7e361d500409ce2f824d82d5dcd5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P02.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P02.tif",
+      "sha256": "1381c48dab4e408edad799ae43cfeba262c4cbec48862421af8e544b73a346f6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P03.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P03.tif",
+      "sha256": "563a2a872d5311c3d317deac6bc5e1f7f03c393bc76e8c5c00efa84bc57234e0",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P04.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P04.tif",
+      "sha256": "5688bc73d5d9be82238c97c934a5528b1c41438fd0c65a75244590d9a075d1ae",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P05.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P05.tif",
+      "sha256": "2b7ec04879693e14d519c68ab875004b2c1f9d80725ca253a59806ddbf1e6214",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P06.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P06.tif",
+      "sha256": "ec763e8bf81c6d72a5fb2f81f9867a09531c3c34d0e12e45a0ebdc7306a89ff6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P07.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P07.tif",
+      "sha256": "94a0d01ff3df9cd6cc9910b9826a79d60581df0cd53feeea015a735f3aa286c2",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P08.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P08.tif",
+      "sha256": "7b2ba8b6eac41589820c28a036c176c63db19769f8745e4585220192d7def83f",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P09.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P09.tif",
+      "sha256": "cb6d5f3eae9996ff535f54d3a823131d75783cac4c6599d2d8c931a63e3f8c04",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P10.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P10.tif",
+      "sha256": "304772651d091ae0fb9232a43b1fa5c84661a4e0e948c50c994be3e2a7b70b11",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P11.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P11.tif",
+      "sha256": "ff4fea7288142daff4d31a985e0bffe36871120e8ee70dc1c2b383d3aac1665a",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P12.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P12.tif",
+      "sha256": "006dae7c7bee90a942e36920eaddcbef88d612ddf8ce96fe72c10d03e89bf9de",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        1754,
+        1240
+      ]
+    },
+    {
+      "filename": "B02P13.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P13.tif",
+      "sha256": "f909d8327bf072d839641d8e0c76c850161106f21e778dc87480b08ea3c981d9",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P14.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P14.tif",
+      "sha256": "f06ef979b8b645cd58af68c92ff83b7eb8ba78ab109f1a671469a06c84294191",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P15.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P15.tif",
+      "sha256": "5c0d909ed0d8ad82dd38140f2af0d54f22e07ee9dbc4b85f37f7ebc49d6ec7b9",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P16.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P16.tif",
+      "sha256": "e9f00fa9a267368ca96ab38d5ee3d0be23542c26795281919f1fedf56104bfaf",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P17.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P17.tif",
+      "sha256": "a29a2589c867667cf90aa7d7b0db7b4a0e20044d973d3fadef048017ee76431d",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P18.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P18.tif",
+      "sha256": "d554ad8a0ad59a5f0fb3a965ba1e2cb23a06255c8feb0a9771eb3eb625eedca5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P19.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P19.tif",
+      "sha256": "1aafeeb55c396e8578fe714aef6c837f282d02e050c111b8c343bc0e466a45b7",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P20.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P20.tif",
+      "sha256": "58094a6407a4bdd0a8c99d1c955992a48b33ac64aa56473784820098d7c1efce",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P21.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P21.tif",
+      "sha256": "698de9571f09c64db4bc49ffb43fb33965a0ae61edb94de5553b65510d2ee34a",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P22.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P22.tif",
+      "sha256": "b0345be125507d17cc6f7a6f8c1037942efcec90b1ce709b68d219fb6ab2a604",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P23.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P23.tif",
+      "sha256": "811d52acfc25d7b96b106b6b4c927ce47df1a448af0d44166939a7fd9bd1df54",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P24.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P24.tif",
+      "sha256": "48d70e152cc2a4761d03f886244b103aba2c287ebbb4f55dc709f51eea0233e9",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P25.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P25.tif",
+      "sha256": "0dd5baf454c79a08548bee7c3282cb538f952e339374c29a7f613e5230fc0b0f",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P26.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P26.tif",
+      "sha256": "d5e54364357e8c8ab6773a3bdec32037d12752b55e979b0ed5235497f06345f5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P27.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P27.tif",
+      "sha256": "ea0306fa62205e049fe3c51a202a160883c0a8cb64708930da98623512255981",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P28.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P28.tif",
+      "sha256": "5f48827b71d432cc0cc5491844bf090d1b7b34476a142c43494a27436322061e",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P29.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P29.tif",
+      "sha256": "ea86397a1ea116b68ceeeaa1357263266c0277c9a929b1b690ee8377d708e5fc",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P30.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P30.tif",
+      "sha256": "86c942d69d834396b3ba754318ae9a5c209ab0862b4c97d4c19f675946608893",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P31.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P31.tif",
+      "sha256": "ac26518bcd90c673a737108c75f34d3ca7b3ee085ce771ec12f76be23f5d5b6b",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P32.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P32.tif",
+      "sha256": "822e4440d12bd4b43df7a69a1173b06a16cb2932b18484d5f59e327ebfae0a11",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P33.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P33.tif",
+      "sha256": "dc1d6cbcb436e7fd3bfcd78bad6a8bb7828e11af21da458ba681d64487995f43",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P34.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P34.tif",
+      "sha256": "a1cbdf42be912f5d322b4beb58edcc2a7b65b4d6e8e50008083468245d11f038",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P35.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P35.tif",
+      "sha256": "1857e7ea9745291beaa0a47c7ffb6b55f4730dab4863123edd07d85eaee53183",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P36.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P36.tif",
+      "sha256": "1057827b99cb6938fa486e1e6d8a3e6402d20e5f394a3acfdb62eaf91221eea5",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P37.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P37.tif",
+      "sha256": "7e8d36460f2a9886475852746e978467f04a04d1ecb5fef6be08b4598a5df2e7",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P38.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P38.tif",
+      "sha256": "024ed7730a8c6cfa6023c15b84063f518c3b6f8290d678d34d7408bcddfc83ec",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P39.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P39.tif",
+      "sha256": "67a8b82e5c0c06ee29906969734fb9086d33e2de85963c46505af2f665905532",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P40.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P40.tif",
+      "sha256": "7d26d7d1ca5610e846b1de2e1d6e89f0b129a87ccd56c624555a2d20a55c4685",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P41.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P41.tif",
+      "sha256": "ce35739a984db5ce3a5b6f69f41c46cb79f05a51e8a260f6a851108786118e5e",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P42.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P42.tif",
+      "sha256": "3fe252c9ff276649f1a0e9ceba96b7dd4c0a0ee89f9e2b61a5103d1baeb137e6",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P43.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P43.tif",
+      "sha256": "2d84013c59b35faf1a47c0436b377f1f5807777977b57bbd9e474ad98304fb61",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P44.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P44.tif",
+      "sha256": "94bcfcddd37e5e1be149f758916ad22232024810edafa930dcc7796cde2562ef",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B02P45.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B02/B02P45.tif",
+      "sha256": "baba5145e38bbaa150b618354d8bb4d4e4570c982c321a1ee5f67c93f863669b",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P01.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P01.tif",
+      "sha256": "b02877bd3785c7b0bfef375b05c5b5d6d64ba704ba5e91328b4eb44fb3519140",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P02.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P02.tif",
+      "sha256": "4dec22bb99a6c379ad57812a16869252a7fe38dc1c9c1bf550c4b10c9888d313",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P03.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P03.tif",
+      "sha256": "7a80cb4a625af324d8faa8389c02e466addc322ebe5952ba84b9ced6a3e936f4",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P04.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P04.tif",
+      "sha256": "f8387e69920b90f07834c94e8a9bbd01d30bd10933916933a98247cdfe48f79a",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P05.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P05.tif",
+      "sha256": "6961e09a5bd099a1580447d60b19be8e7aa84f99b039b3f26733b8d5997a9a19",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P06.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P06.tif",
+      "sha256": "c8f4d38b84831a10a43e410f1f81b968a81bf065a46f4ce1c6588d30589c8f57",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P07.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P07.tif",
+      "sha256": "a8317fb776ab91f4245bb469eeddc22364de7ea06f02e1ff9149901f78b3db0f",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P08.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P08.tif",
+      "sha256": "d3bc6dbbf2b357f227f920134a0cd81936fad7f15f5507010ed350e69d430df1",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P09.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P09.tif",
+      "sha256": "7fde09e2b34cd34d5835b78f81e463ff9791d293ab6198da62f48a0ed2edc453",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P10.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P10.tif",
+      "sha256": "0c02af13a94c9106ece7d4538714b493d4decec2f658c820d32aa35a18af8f75",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P11.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P11.tif",
+      "sha256": "906e3d5d9295960ab08ea9573dcaa91e9c8928d566dddef1051869fc5ee725e0",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P12.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P12.tif",
+      "sha256": "69e391b16c1c2b3910786a45808c99d6c5ed2571503a2fc80918b9afb86793b4",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P13.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P13.tif",
+      "sha256": "fff551347888a0ce6f2c2c554d65fed055ac89f606fe983a5dba1ff278a6e70c",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P14.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P14.tif",
+      "sha256": "4afa4d0e1577469453b64edb67919bd86166f306c7b7ee800ed6a088d5fa430f",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P15.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P15.tif",
+      "sha256": "d8c0994777a9c1f02874b18891a8b470de92a644f49aa7a9d60368dc39b0314e",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P16.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P16.tif",
+      "sha256": "2b328fa8c44c3f07da124a7a8dbc9fb9de24888ac15fa9edf093a2df2a9440da",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P17.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P17.tif",
+      "sha256": "87f2614b3ce2c4e873a9218315a9a2219052a6d5d38bb43519715d8edaf41ae8",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P18.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P18.tif",
+      "sha256": "80debbd4938e229f6d31bd1d4b655dfdb96af063fb8aa9a8c62598d98f1eb5bf",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P19.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P19.tif",
+      "sha256": "2efe2371eb9d159d66787b39cad89d2592029bdaffb522afb3074ee696ff28ee",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B03P20.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B03/B03P20.tif",
+      "sha256": "617f959fd9abd0ce74a78c91f0cd1a7284f96b3cd17a8a7222ad79d97c5787bb",
+      "crop": "right half of scanned page (x >= 50%)",
+      "rotation_ccw_degrees": 90,
+      "source_dimensions": [
+        2150,
+        1520
+      ]
+    },
+    {
+      "filename": "B24P03.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P03.jpg",
+      "sha256": "b25762a9ec5ec180d8c187a234cec87fcec4d1f9baf14e5b96757e54674956a2",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P04.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P04.jpg",
+      "sha256": "3754822d76f2f419c375d35f834b30c529729d46d4b061d4898ca4a53eb36f63",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P05.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P05.jpg",
+      "sha256": "65b6ee34a71cfe9b0d8b811a793d513e753ef2f85c00cff452cdfb283e000603",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P06.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P06.jpg",
+      "sha256": "3d0bbc9290d6f9c427aeeaa10a112fa6593244d7421db83cbd0ead5620a56598",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P07.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P07.jpg",
+      "sha256": "b39ef10eb05ad3942c44b51c7725ca54f206a0ecfeb71170d1f8ecb36530f16b",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P08.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P08.jpg",
+      "sha256": "c6905985a5938cf89ab44076f7ab11cafb7138e7b68496187d3062310eef8757",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P09.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P09.jpg",
+      "sha256": "5cee79894ab1ec312efb7db3030cd5cdede28d472dc102c77ceb0afd5b7d42f2",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P10.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P10.jpg",
+      "sha256": "16cdb60bfeba0e155c9115304cd7421da7590be42f93dc8dddccabd091196eca",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P11.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P11.jpg",
+      "sha256": "c6ab084f39f7613162ee6d871973d1d02ac8b83ef194e63594749b98bf5970f7",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P12.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P12.jpg",
+      "sha256": "bad8b36cfab3f64a8ed9cc53ea8980f7f563eaa99a18ac28a606c34d7aa58225",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P13.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P13.jpg",
+      "sha256": "3d7719e59a081377d79b25f9f041e4f42d2d445bb81b16a73fac49aa3162a490",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P14.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P14.jpg",
+      "sha256": "56730368b4fffcee2901151a1364638a6fd7dae1db5983cd752e25b3ae6c5c0d",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P15.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P15.jpg",
+      "sha256": "4b906a3b8778d44af37536210964d3eeaea39549eec24483282bff00f2040cf9",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P16.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P16.jpg",
+      "sha256": "665ed3dde5a8be1a242d740417a44f2def90896d7c8855564f381bceaa9bf79d",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P17.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P17.jpg",
+      "sha256": "2d27a7ed556d7cb8af0df1f443455d989dcc65fa52751da170c948315a069378",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P18.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P18.jpg",
+      "sha256": "e8b349ef496d12ca086f8f730724d0865bfbefa9659fc8410a6d15ddc737863a",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P19.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P19.jpg",
+      "sha256": "3a223e96a8cbe9c921613f87c62b57c9e510b95ca3531b91c66c3af37939e679",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P20.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P20.jpg",
+      "sha256": "02934b22e6bbe96102025ccb09102409a4fb04ead19e47e0a0f4fa690f565ee8",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P21.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P21.jpg",
+      "sha256": "0e15b22e2a3afd70a3196983caf4a5910ea9d4179fe054dd6c017a0906d4ef2d",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P22.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P22.jpg",
+      "sha256": "1c926e31582f2bc2f28a9b4f82c15f7a8fd5eded1e19d4bacf24570e0f8f9a98",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P23.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P23.jpg",
+      "sha256": "6cfd80c1fd4d841edc895c7e418e1a0a507b592389c375afe922a5108baad8b8",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P24.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P24.jpg",
+      "sha256": "021f6034529747b2461a90dafd8b63649d7dc35bc4b99d4a7ad9605994d0637e",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P25.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P25.jpg",
+      "sha256": "df092f924b4bc9770de65099c62e4f9c3d9ec016f3950407a7d1060e11e2dc56",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P26.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P26.jpg",
+      "sha256": "45a4c2261957565eb1fc2baf47f82a59eb569e6b36421b4d5a45b016a2daa3ab",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P27.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P27.jpg",
+      "sha256": "7cce628192f8ab093f8edbbe7efabb0498a0082199c4fb44e66c1352da5837dc",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P28.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P28.jpg",
+      "sha256": "32c3adfb26fefbabffb922452d7bdf22a234534623d0c7d719f00ee1ea99454f",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P29.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P29.jpg",
+      "sha256": "fd932a500c3fcf7fb58b559a600620472b3f40387d4099a0fcdaa5b4effa2d62",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P30.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P30.jpg",
+      "sha256": "cc4991204b8f7337a2ffceb48470ed88196dc280b610a1a87c3bbf5431cdc84d",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 0,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    },
+    {
+      "filename": "B24P31.jpg",
+      "source": "/Users/lamwc/Desktop/week5/B24_photo/B24P31.jpg",
+      "sha256": "be5ff03ef1afd0df6c78a71eb2ed3bf468210adcd48fc01c0346822c254f121f",
+      "crop": "photographic frame below y = 50.7%",
+      "rotation_ccw_degrees": 180,
+      "source_dimensions": [
+        3040,
+        4300
+      ]
+    }
+  ],
+  "notes": "B01P13 uses an upper-left quadrant crop because its scanned photograph is located there; remaining B01-B03 photos use the right half. B24 photos use the lower photographic area.",
+  "orientation_review": "Human visual comparison of 0/90/180/270-degree alternatives; B24 rotations also cross-checked against its previously reviewed orientation list. Cropped and rotated display copies only; source scans remain untouched."
+}

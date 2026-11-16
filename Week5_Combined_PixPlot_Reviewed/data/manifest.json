@@ -1,0 +1,57 @@
+{
+  "version": "0.0.113",
+  "plot_id": "660092cc-e039-11f1-97f1-0bc447cffff8",
+  "output_directory": "/Users/lamwc/WorkBuddy AI/2026-11-14-18-54-32/Week5_Combined_PixPlot_Reviewed",
+  "layouts": {
+    "umap": {
+      "variants": [
+        {
+          "n_neighbors": 15,
+          "min_dist": 0.01,
+          "layout": "data/layouts/umap-660092cc-e039-11f1-97f1-0bc447cffff8.json",
+          "jittered": "data/layouts/umap-jittered-660092cc-e039-11f1-97f1-0bc447cffff8.json"
+        }
+      ]
+    },
+    "alphabetic": {
+      "layout": "data/layouts/grid-660092cc-e039-11f1-97f1-0bc447cffff8.json"
+    },
+    "grid": {
+      "layout": "data/layouts/rasterfairy-660092cc-e039-11f1-97f1-0bc447cffff8.json"
+    },
+    "categorical": false,
+    "date": false,
+    "geographic": null,
+    "custom": null
+  },
+  "initial_layout": "umap",
+  "point_sizes": {
+    "min": 0,
+    "grid": 0.08333333333333333,
+    "max": 0.3,
+    "scatter": 0.05,
+    "initial": 0.05,
+    "categorical": 0.049999999999999996,
+    "geographic": 0.0020833333333333333
+  },
+  "imagelist": "data/imagelists/imagelist-660092cc-e039-11f1-97f1-0bc447cffff8.json",
+  "atlas_dir": "data/atlases/660092cc-e039-11f1-97f1-0bc447cffff8",
+  "metadata": false,
+  "default_hotspots": "data/hotspots/reviewed-subjects.json",
+  "custom_hotspots": "data/hotspots/reviewed-subjects.json",
+  "gzipped": false,
+  "config": {
+    "sizes": {
+      "atlas": 2048,
+      "cell": 96,
+      "lod": 128
+    }
+  },
+  "creation_date": "14-November-2026-22:41:07",
+  "review": {
+    "method": "AI-assisted visual reorganization of all 125 display-corrected images into 10 primary-subject groups.",
+    "coverage": "125 / 125 unique images, exactly one primary group each",
+    "group_count": 10,
+    "caveat": "Group names are human-reviewed visual descriptions, not Inception/ImageNet semantic predictions. Original automatic KMeans clusters are retained at data/hotspots/automatic-kmeans-original.json."
+  }
+}
